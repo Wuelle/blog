@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://wuelle.dev/blog/</loc>
+    <lastmod>2022-07-03T16:12:30+02:00</lastmod>
+  </url><url>
+    <loc>https://wuelle.dev/blog/posts/magstripes/</loc>
+    <lastmod>2022-07-03T16:12:30+02:00</lastmod>
+  </url><url>
+    <loc>https://wuelle.dev/blog/posts/</loc>
+    <lastmod>2022-07-03T16:12:30+02:00</lastmod>
+  </url><url>
+    <loc>https://wuelle.dev/blog/posts/leuchtkraft/</loc>
+    <lastmod>2022-04-13T22:18:09+01:00</lastmod>
+  </url><url>
+    <loc>https://wuelle.dev/blog/categories/</loc>
+  </url><url>
+    <loc>https://wuelle.dev/blog/tags/</loc>
+  </url>
+</urlset>

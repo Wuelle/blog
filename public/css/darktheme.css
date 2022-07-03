@@ -1,0 +1,46 @@
+body {
+    background-color: #222;
+    color: #DDD;
+    font-family: "Public Serif", sans-serif
+}
+
+a {
+    color: #DDD;
+    text-decoration-color: #DDD!important;
+}
+a:hover {
+    font-weight: 400!important;
+}
+
+.header-line {
+    border-color: #DDD;
+}
+
+.markdown-body code {
+    background-color: #333;
+    padding: .1em .4em;
+    border-radius: 3px;
+    white-space: nowrap;
+}
+
+table { 
+    border-collapse: collapse; 
+    margin-left: 25%;
+    width: 50%;
+}
+
+td + td,
+th + th { 
+    border-left: 1px solid; 
+}
+tr { 
+    border-top: 1px solid; 
+}
+
+code {
+}
+
+td {
+    padding: 7px;
+    text-align: center;
+}

@@ -1,0 +1,29 @@
+baseURL = 'https://wuelle.dev/blog'
+languageCode = 'en-us'
+title = 'My personal Blog'
+theme = "yinyang"
+
+[params]
+headTitle = "Alaska"
+mainSections = ["posts"]
+extraCSSFiles = ["css/darktheme.css"]
+
+[[params.socials]]
+name = "GitHub"
+link = "https://github.com/Wuelle"
+
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = true
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    noHl = false
+    style = 'native'
+    tabWidth = 4
